@@ -1,5 +1,8 @@
 {
   "name": "round",
   "version": "1.0.0",
-  "main": "round.js"
+  "main": "round.js",
+  "devDependencies": {
+    "testpass": "^0.5.1"
+  }
 }
